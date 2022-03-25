@@ -242,8 +242,9 @@
 
 - 💙🧩 [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components.
+- 📚 [Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements/) - 𝙃𝙪𝙜𝙚 collection of Tailwind components and templates. The most popular 3rd party library ![GitHub Repo stars](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements?style=social)
 - 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
-- 📚 [Tailwind Elements](https://tailwind-elements.com/) - Huge collection of free components, mobile-friendly thanks to Bootstrap 5.
+- 📚 [Tailwind Elements](https://tailwind-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more features.
 - 📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 - 📚 [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
